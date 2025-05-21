@@ -1,0 +1,7 @@
+FastAPI
+uvicorn
+pydantic
+joblib
+scikit-learn
+pytest
+pytest-asyncio
